@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Артем\source\repos\modeling_of_gauss_process\modeling_of_gauss_process\main.cpp(6,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Артем\source\repos\modeling_of_gauss_process\modeling_of_gauss_process\main.cpp(9,7): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  modeling_of_gauss_process.vcxproj -> C:\Users\Артем\source\repos\modeling_of_gauss_process\x64\Debug\modeling_of_gauss_process.exe
