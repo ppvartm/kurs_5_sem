@@ -12,7 +12,7 @@
 оценки скорости слабой и сильной сходимости метода численного интегрирования
 СОДУ.
 
-![Текст описания]([https://www.example.com/image.jpg](https://github.com/ppvartm/kurs_5_sem/blob/main/documents/pred-prey%20exmpl.png))
+![Текст описания](https://github.com/ppvartm/kurs_5_sem/blob/main/documents/pred-prey%20exmpl.png)
 
 Простейший
 алгоритм основан на обобщении явного метода Эйлера на стохастическое обыкновенное
